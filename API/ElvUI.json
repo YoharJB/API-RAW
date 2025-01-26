@@ -1,38 +1,217 @@
 [
-    {
-        "title": "Caydys anti weakaura (liquid maximum)",
-        "file_name": "Caydys3.3.5",
-        "description": "wanted a ui without having to depend on weakauras just by using elvui actions bar you might have to drag spell to the bars so you can see the cd",
-        "author": "Clancy",
-        "pr_author": "Sitoz",
-        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-        "expansion":[ "Lichking"],
-        "tags": ["General", "PvE", "PvP"],
-        "roles": ["DPS"],
-        "class": ["Rogue", "Warrior", "Paladin", "Death Knight"]
-    },
-    {
-        "title": "ToxiUI WOTLK 3.3.5 [PServers Only]",
-        "file_name": "ToxiUI3.3.5",
-        "description": "ToxiUI for World of Warcraft: Wrath of the Lich King [3.3.5 Private Servers]",
-        "author": "Nethanos",
-        "pr_author": "Sitoz",
-        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-        "expansion":[ "Lichking"],
-        "tags": ["General", "PvE", "PvP"],
-        "roles": ["DPS", "TANK", "HEALER"],
-        "class": ["All"]
-    },
-    {
-        "title": "Clean ElvUI Preset for PRO Gamers",
-        "file_name": "ElvUI3.3.5",
-        "description": "tired of every elvui preset looking the same? try this one then",
-        "author": "Danielwow123",
-        "pr_author": "Sitoz",
-        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-        "expansion": ["Lichking"],
-        "tags": ["General", "PvE", "PvP"],
-        "roles": ["DPS", "TANK", "HEALER"],
-        "class": ["All"]
-    }
+  {
+    "title": "Caydys anti weakaura (liquid maximum)",
+    "file_name": "Caydys3.3.5",
+    "description": "wanted a ui without having to depend on weakauras just by using elvui actions bar you might have to drag spell to the bars so you can see the cd",
+    "author": "Clancy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS"
+    ],
+    "class": [
+      "Rogue",
+      "Warrior",
+      "Paladin",
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "ToxiUI WOTLK 3.3.5 [PServers Only]",
+    "file_name": "ToxiUI3.3.5",
+    "description": "ToxiUI for World of Warcraft: Wrath of the Lich King [3.3.5 Private Servers]",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "All"
+    ]
+  },
+  {
+    "title": "Clean ElvUI Preset for PRO Gamers",
+    "file_name": "ElvUI3.3.5",
+    "description": "tired of every elvui preset looking the same? try this one then",
+    "author": "Danielwow123",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "All"
+    ]
+  },
+  {
+    "title": "Rogue WA Package - WOTLK 3.3.5",
+    "file_name": "Quazii3.3.5",
+    "description": "## Quazii's Rogue Package\n\nThis Weakaura is **Quazii's Rogue Package**, and I just skinned everything to fit with *NaowhUI WOTLK 3.3.5* and added some new weakauras to make it more helpful.",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Rogue"
+    ]
+  },
+  {
+    "title": "Complete Feral Cat DPS suite for 3.3.5",
+    "file_name": "FeralCat3.3.5",
+    "description": "Everything you need 4 FITE !!! Optimized for PVE",
+    "author": "napnap",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "Rogue UI (ChromieCraft Level 64 bracket)",
+    "file_name": "ChromieCraft3.3.5",
+    "description": "This collection helps to keep track on all relevant information (energy, combo points, poisons, cooldowns, buffs, …) for rogues. All specializations are supported.",
+    "author": "ishidinho",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Rogue"
+    ]
+  },
+  {
+    "title": "Caydys anti weakaura (liquid maximum)",
+    "file_name": "Caydys3.3.5",
+    "description": "wanted a ui without having to depend on weakauras just by using elvui actions bar you might have to drag spell to the bars so you can see the cd",
+    "author": "Clancy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS"
+    ],
+    "class": [
+      "Rogue",
+      "Warrior",
+      "Paladin",
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "ToxiUI WOTLK 3.3.5 [PServers Only]",
+    "file_name": "ToxiUI3.3.5",
+    "description": "ToxiUI for World of Warcraft: Wrath of the Lich King [3.3.5 Private Servers]",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "All"
+    ]
+  },
+  {
+    "title": "Clean ElvUI Preset for PRO Gamers",
+    "file_name": "ElvUI3.3.5",
+    "description": "tired of every elvui preset looking the same? try this one then",
+    "author": "Danielwow123",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General",
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "All"
+    ]
+  }
 ]
